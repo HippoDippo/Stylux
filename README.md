@@ -1,0 +1,1 @@
+This is a ReadMe for Stylux by Kaycee Ingram and Christopher Fox.
