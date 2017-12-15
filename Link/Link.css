@@ -1,0 +1,22 @@
+.link {
+  text-decoration: none;  
+
+/* Edit Positioning here */
+/*************************/
+  display: flex;
+  justify-content: center;
+/*************************/
+    
+/* Edit Coloring here */  
+/**********************/
+  color: #FFc300;
+/**********************/
+}
+  
+/* Edit ( Hover ) Coloring here */
+/********************************/
+.link:hover {
+  color: #FFa300;
+}
+/********************************/
+
