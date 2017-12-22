@@ -116,6 +116,16 @@ export default class Holder8 extends Component {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="holder8">
+                <section className="holder8-top">
+                    <div className="holder8-block1">{childs[0] || <div />}</div>
+                    <div className="holder8-block3">{childs[2] || <div />}</div>
+                    <div className="holder8-block5">{childs[4] || <div />}</div>
+                </section>
+                <section className="holder8-bottom">
+                    <div className="holder8-block2">{childs[1] || <div />}</div>
+                    <div className="holder8-block4">{childs[3] || <div />}</div>
+                    <div className="holder8-block6">{childs[5] || <div />}</div>
+                </section>
             </section>
         )
     }
@@ -127,6 +137,18 @@ export default class Holder9 extends Component {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="holder9">
+                <section className="holder9-top">
+                    <div className="holder9-block1">{childs[0] || <div />}</div>
+                    <div className="holder9-block3">{childs[2] || <div />}</div>
+                    <div className="holder9-block5">{childs[4] || <div />}</div>
+                    <div className="holder9-block7">{childs[6] || <div />}</div>
+                </section>
+                <section className="holder9-bottom">
+                    <div className="holder9-block2">{childs[1] || <div />}</div>
+                    <div className="holder9-block4">{childs[3] || <div />}</div>
+                    <div className="holder9-block6">{childs[5] || <div />}</div>
+                    <div className="holder9-block8">{childs[7] || <div />}</div>
+                </section>
             </section>
         )
     }
@@ -138,6 +160,12 @@ export default class Holder10 extends Component {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="holder10">
+                <section className="holder10-top">
+                    <div className="holder10-block1">{childs[0] || <div />}</div>
+                </section>
+                <section className="holder10-bottom">
+                    <div className="holder10-block2">{childs[1] || <div />}</div>
+                </section>
             </section>
         )
     }
@@ -149,6 +177,12 @@ export default class Holder11 extends Component {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="holder11">
+                <section className="holder11-top">
+                    <div className="holder11-block1">{childs[0] || <div />}</div>
+                </section>
+                <section className="holder11-bottom">
+                    <div className="holder11-block2">{childs[1] || <div />}</div>
+                </section>
             </section>
         )
     }
@@ -160,6 +194,13 @@ export default class Holder12 extends Component {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="holder12">
+                <section className="holder12-left">
+                    <div className="holder12-block1">{childs[0] || <div />}</div>
+                    <div className="holder12-block2">{childs[1] || <div />}</div>
+                </section>
+                <section className="holder12-right">
+                    <div className="holder12-block3">{childs[2] || <div />}</div>
+                </section>
             </section>
         )
     }
@@ -171,6 +212,13 @@ export default class Holder13 extends Component {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="holder13">
+                <section className="holder13-left">
+                    <div className="holder13-block1">{childs[0] || <div />}</div>
+                </section>
+                <section className="holder13-right">
+                    <div className="holder13-block2">{childs[1] || <div />}</div>
+                    <div className="holder13-block3">{childs[2] || <div />}</div>
+                </section>
             </section>
         )
     }
@@ -182,6 +230,13 @@ export default class Holder14 extends Component {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="holder14">
+                <section className="holder14-top">
+                    <div className="holder14-block1">{childs[0] || <div />}</div>
+                </section>
+                <section className="holder14-bottom">
+                    <div className="holder14-block2">{childs[1] || <div />}</div>
+                    <div className="holder14-block3">{childs[2] || <div />}</div>
+                </section>
             </section>
         )
     }
@@ -193,6 +248,13 @@ export default class Holder15 extends Component {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="holder15">
+                <section className="holder15-top">
+                    <div className="holder15-block1">{childs[0] || <div />}</div>
+                    <div className="holder15-block2">{childs[1] || <div />}</div>
+                </section>
+                <section className="holder15-bottom">
+                    <div className="holder15-block3">{childs[2] || <div />}</div>
+                </section>
             </section>
         )
     }
@@ -204,6 +266,14 @@ export default class Holder16 extends Component {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="holder16">
+                <section className="holder16-left">
+                    <div className="holder16-block1">{childs[0] || <div />}</div>
+                    <div className="holder16-block2">{childs[1] || <div />}</div>
+                    <div className="holder16-block3">{childs[2] || <div />}</div>
+                </section>
+                <section className="holder16-right">
+                    <div className="holder16-block4">{childs[3] || <div />}</div>
+                </section>
             </section>
         )
     }
@@ -215,6 +285,14 @@ export default class Holder17 extends Component {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="holder17">
+                <section className="holder17-left">
+                    <div className="holder17-block1">{childs[0] || <div />}</div>
+                </section>
+                <section className="holder17-right">
+                    <div className="holder17-block2">{childs[1] || <div />}</div>
+                    <div className="holder17-block3">{childs[2] || <div />}</div>
+                    <div className="holder17-block4">{childs[3] || <div />}</div>
+                </section>
             </section>
         )
     }
@@ -226,6 +304,14 @@ export default class Holder18 extends Component {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="holder18">
+                <section className="holder18-top">
+                    <div className="holder18-block1">{childs[0] || <div />}</div>
+                    <div className="holder18-block2">{childs[1] || <div />}</div>
+                    <div className="holder18-block3">{childs[2] || <div />}</div>
+                </section>
+                <section className="holder18-bottom">
+                    <div className="holder18-block4">{childs[3] || <div />}</div>
+                </section>
             </section>
         )
     }
@@ -237,6 +323,15 @@ export default class Holder19 extends Component {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="holder19">
+                <section className="holder19-top">
+                    <div className="holder19-block1">{childs[0] || <div />}</div>
+                </section>
+                <section className="holder19-bottom">
+                    <div className="holder19-block2">{childs[1] || <div />}</div>
+                    <div className="holder19-block3">{childs[2] || <div />}</div>
+                    <div className="holder19-block4">{childs[3] || <div />}</div>
+                </section>
+
             </section>
         )
     }
@@ -248,6 +343,16 @@ export default class Holder20 extends Component {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="holder20">
+                <section className="holder20-left">
+                    <div className="holder20-block1">{childs[0] || <div />}</div>
+                </section>
+                <section className="holder20-middle">
+                    <div className="holder20-block2">{childs[1] || <div />}</div>
+                    <div className="holder20-block3">{childs[2] || <div />}</div>
+                </section>
+                <section className="holder20-right">
+                    <div className="holder20-block4">{childs[3] || <div />}</div>
+                </section>
             </section>
         )
     }
@@ -259,6 +364,16 @@ export default class Holder21 extends Component {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="holder21">
+                <section className="holder21-left">
+                    <div className="holder21-block1">{childs[0] || <div />}</div>
+                    <div className="holder21-block2">{childs[1] || <div />}</div>
+                </section>
+                <section className="holder21-middle">
+                    <div className="holder21-block3">{childs[2] || <div />}</div>
+                </section>
+                <section className="holder21-right">
+                    <div className="holder21-block4">{childs[3] || <div />}</div>
+                </section>
             </section>
         )
     }
@@ -270,6 +385,16 @@ export default class Holder22 extends Component {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="holder22">
+                <section className="holder22-left">
+                    <div className="holder22-block1">{childs[0] || <div />}</div>
+                </section>
+                <section className="holder22-middle">
+                    <div className="holder22-block2">{childs[1] || <div />}</div>
+                </section>
+                <section className="holder22-right">
+                    <div className="holder22-block3">{childs[2] || <div />}</div>
+                    <div className="holder22-block4">{childs[3] || <div />}</div>
+                </section>
             </section>
         )
     }
@@ -281,6 +406,18 @@ export default class Holder23 extends Component {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="holder23">
+                <section className="holder23-left">
+                    <div className="holder23-block1">{childs[0] || <div />}</div>
+                </section>
+                <section className="holder23-right">
+                    <section className="holder23-right-top">
+                        <div className="holder23-block2">{childs[1] || <div />}</div>
+                    </section>
+                    <section className="holder23-right-bottom">
+                        <div className="holder23-block3">{childs[2] || <div />}</div>
+                        <div className="holder23-block4">{childs[3] || <div />}</div>
+                    </section>
+                </section>
             </section>
         )
     }
@@ -292,6 +429,18 @@ export default class Holder24 extends Component {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="holder24">
+                <section className="holder24-left">
+                    <div className="holder24-block1">{childs[0] || <div />}</div>
+                </section>
+                <section className="holder24-right">
+                    <section className="holder24-right-top">
+                        <div className="holder24-block2">{childs[1] || <div />}</div>
+                        <div className="holder24-block3">{childs[2] || <div />}</div>
+                    </section>
+                    <section className="holder24-right-bottom">
+                        <div className="holder24-block4">{childs[3] || <div />}</div>
+                    </section>
+                </section>
             </section>
         )
     }
