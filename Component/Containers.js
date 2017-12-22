@@ -59,8 +59,8 @@ export class Container4 extends Component {
                     <div className="container4-block3">{childs[2] || <div />}</div>
                 </section>
                 <section className="container4-bottom">
-                <div className="container4-block2">{childs[1] || <div />}</div>
-                <div className="container4-block4">{childs[3] || <div />}</div>
+                    <div className="container4-block2">{childs[1] || <div />}</div>
+                    <div className="container4-block4">{childs[3] || <div />}</div>
                 </section>
             </section>
         )
@@ -74,6 +74,16 @@ export class Container5 extends Component {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="container5">
+                <section className="container5-top">
+                    <div className="container5-block1">{childs[0] || <div />}</div>
+                    <div className="container5-block2">{childs[1] || <div />}</div>
+                    <div className="container5-block3">{childs[2] || <div />}</div>
+                </section>
+                <section className="container5-bottom">
+                    <div className="container5-block4">{childs[3] || <div />}</div>
+                    <div className="container5-block5">{childs[4] || <div />}</div>
+                    <div className="container5-block6">{childs[5] || <div />}</div>
+                </section>
             </section>
         )
     }
@@ -87,6 +97,16 @@ export class Container6 extends Component {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="container6">
+                <section className="container6-left">
+                    <div className="container6-block1">{childs[0] || <div />}</div>
+                    <div className="container6-block2">{childs[1] || <div />}</div>
+                    <div className="container6-block3">{childs[2] || <div />}</div>
+                </section>
+                <section className="container6-right">
+                    <div className="container6-block4">{childs[3] || <div />}</div>
+                    <div className="container6-block5">{childs[4] || <div />}</div>
+                    <div className="container6-block6">{childs[5] || <div />}</div>
+                </section>
             </section>
         )
     }
@@ -99,6 +119,13 @@ export class Container7 extends Component {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="container7">
+                <section className="container7-left">
+                    <div className="container7-block1">{childs[0] || <div />}</div>
+                    <div className="container7-block2">{childs[1] || <div />}</div>
+                </section>
+                <section className="container7-right">
+                    <div className="container7-block3">{childs[2] || <div />}</div>
+                </section>
             </section>
         )
     }
@@ -111,6 +138,13 @@ export class Container8 extends Component {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="container8">
+                <section className="container8-left">
+                    <div className="container8-block1">{childs[0] || <div />}</div>
+                </section>
+                <section className="container8-right">
+                    <div className="container8-block2">{childs[1] || <div />}</div>
+                    <div className="container8-block3">{childs[2] || <div />}</div>
+                </section>
             </section>
         )
     }
@@ -123,6 +157,13 @@ export class Container9 extends Component {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="container9">
+                <section className="container9-top">
+                    <div className="container9-block1">{childs[0] || <div />}</div>
+                </section>
+                <section className="container9-bottom">
+                    <div className="container9-block2">{childs[1] || <div />}</div>
+                    <div className="container9-block3">{childs[2] || <div />}</div>
+                </section>
             </section>
         )
     }
@@ -135,6 +176,16 @@ export class Container10 extends Component {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="container10">
+                <section className="container10-top">
+                    <div className="container10-block1">{childs[0] || <div />}</div>
+                </section>
+                <section className="container10-middle">
+                    <div className="container10-block2">{childs[1] || <div />}</div>
+                </section>
+                <section className="container10-bottom">
+                    <div className="container10-block3">{childs[2] || <div />}</div>
+                    <div className="container10-block4">{childs[3] || <div />}</div>
+                </section>
             </section>
         )
     }
@@ -147,6 +198,17 @@ export class Container11 extends Component {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="container11">
+                <section className="container11-top">
+                    <div className="container11-block1">{childs[0] || <div />}</div>
+                    <div className="container11-block2">{childs[1] || <div />}</div>
+                </section>
+                <section className="container11-middle">
+                    <div className="container11-block3">{childs[2] || <div />}</div>
+                </section>
+                <section className="container11-bottom">
+                    <div className="container11-block4">{childs[3] || <div />}</div>
+                    <div className="container11-block5">{childs[4] || <div />}</div>
+                </section>
             </section>
         )
     }

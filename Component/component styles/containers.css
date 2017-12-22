@@ -22,10 +22,26 @@
     width:100vw;
 }
 
+.container2-block1{
+    width: inherit;
+}
+
+.container2-block2{
+    width: inherit;
+}
+
 /* End of Container 2 Styles */
 /*Container 3 Styles */
 .container3{
     width:100vw;
+}
+
+.container3-block1{
+    width: inherit;
+}
+
+.container3-block2{
+    width: inherit;
 }
 
 /* End of Container 3 Styles */
@@ -34,10 +50,65 @@
     width:100vw;
 }
 
+.container4-top{
+    width: inherit;
+}
+.container4-block1{
+    width: inherit;
+}
+
+.container4-block3{
+    width: inherit;
+}
+
+.container4-bottom{
+    width: inherit;
+}
+
+.container4-block2{
+    width: inherit;
+}
+
+.container4-block4{
+    width: inherit;
+}
+
 /* End of Container 4 Styles */
 /* Start of Container 5 Styles */
 .container5{
     width:100vw;
+}
+
+.container5-top{
+    width: inherit;
+}
+
+.container5-block1{
+    width: inherit;
+}
+
+.container5-block2{
+    width: inherit;
+}
+
+.container5-block3{
+    width: inherit;
+}
+
+.container5-bottom{
+    width: inherit;
+}
+
+.container5-block4{
+    width: inherit;
+}
+
+.container5-block5{
+    width: inherit;
+}
+
+.container5-block6{
+    width: inherit;
 }
 
 /* End of Container 5 Styles */
@@ -45,10 +116,63 @@
 .container6{
     width:100vw;
 }
+
+.container6-left{
+    width: inherit;
+}
+
+.container6-block1{
+    width: inherit;
+}
+
+.container6-block2{
+    width: inherit;
+}
+
+.container6-block3{
+    width: inherit;
+}
+
+.container6-right{
+    width: inherit;
+}
+
+.container6-block4{
+    width: inherit;
+}
+
+.container6-block5{
+    width: inherit;
+}
+
+.container6-block6{
+    width: inherit;
+}
+
 /* End of Container 6 Styles */
 /* Start of Container 7 Styles */
 .container7{
     width:100vw;
+}
+
+.container7-left{
+    width: inherit;
+}
+
+.container7-block1{
+    width: inherit;
+}
+
+.container7-block2{
+    width: inherit;
+}
+
+.container7-right{
+    width: inherit;
+}
+
+.container7-block3{
+    width: inherit;
 }
 
 /* End of Container 7 Styles */
@@ -57,10 +181,50 @@
     width:100vw;
 }
 
+.container8-left{
+    width: inherit;
+}
+
+.container8-block1{
+    width: inherit;
+}
+
+.container8-right{
+    width: inherit;
+}
+
+.container8-block2{
+    width: inherit;
+}
+
+.container8-block3{
+    width: inherit;
+}
+
 /* End of Container 8 Styles */
 /* Start of Container 9 Styles */
 .container9{
     width:100vw;
+}
+
+.container9-top{
+    width: inherit;
+}
+
+.container9-block1{
+    width: inherit;
+}
+
+.container9-bottom{
+    width: inherit;
+}
+
+.container9-block2{
+    width: inherit;
+}
+
+.container9-block3{
+    width: inherit;
 }
 
 /* End of Container 9 Styles */
@@ -69,12 +233,70 @@
     width:100vw;
 }
 
+.container-top{
+    width: inherit;
+}
+
+.container10-block1{
+    width: inherit;
+}
+
+.container-middle{
+    width: inherit;
+}
+
+.container10-block2{
+    width: inherit;
+}
+
+.container-bottom{
+    width: inherit;
+}
+
+.container10-block3{
+    width: inherit;
+}
+
+.container10-block4{
+    width: inherit;
+}
 /* End of Container 10 Styles */
 /* Start of Container 11 Styles */
 .container11{
     width:100vw;
 }
 
+.container11-top{
+    width: inherit;
+}
+
+.container11-block1{
+    width: inherit;
+}
+
+.container11-block2{
+    width: inherit;
+}
+
+.container-middle{
+    width: inherit;
+}
+
+.container11-block3{
+    width: inherit;
+}
+
+.container-bottom{
+    width: inherit;
+}
+
+.container11-block4{
+    width: inherit;
+}
+
+.container11-block5{
+    width: inherit;
+}
 /* End of Container 11 Styles */
 /* Start of Container 12 Styles */
 .container12{
