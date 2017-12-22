@@ -7,7 +7,7 @@ import './component styles/holders.css';
 Holders Description and use
 */
 
-/* Start of Holder 1 */
+/* Start of Holder 1 Component */
 export default class Holder1 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -19,8 +19,8 @@ export default class Holder1 extends Component {
         )
     }
 }
-/* End of Holder 1 */
-/* Start of Holder 2 */
+/* End of Holder 1 Component */
+/* Start of Holder 2 Component */
 export default class Holder2 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -33,8 +33,8 @@ export default class Holder2 extends Component {
         )
     }
 }
-/* End of Holder 2 */
-/* Start of Holder 3 */
+/* End of Holder 2 Component */
+/* Start of Holder 3 Component */
 export default class Holder3 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -48,8 +48,8 @@ export default class Holder3 extends Component {
         )
     }
 }
-/* End of Holder 3 */
-/* Start of Holder 4 */
+/* End of Holder 3 Component */
+/* Start of Holder 4 Component */
 export default class Holder4 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -61,8 +61,8 @@ export default class Holder4 extends Component {
         )
     }
 }
-/* End of Holder 4 */
-/* Start of Holder 5 */
+/* End of Holder 4 Component */
+/* Start of Holder 5 Component */
 export default class Holder5 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -75,8 +75,8 @@ export default class Holder5 extends Component {
         )
     }
 }
-/* End of Holder 5 */
-/* Start of Holder 6 */
+/* End of Holder 5 Component */
+/* Start of Holder 6 Component */
 export default class Holder6 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -90,8 +90,8 @@ export default class Holder6 extends Component {
         )
     }
 }
-/* End of Holder 6 */
-/* Start of Holder 7 */
+/* End of Holder 6 Component */
+/* Start of Holder 7 Component */
 export default class Holder7 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -109,8 +109,8 @@ export default class Holder7 extends Component {
         )
     }
 }
-/* End of Holder 7 */
-/* Start of Holder 8 */
+/* End of Holder 7 Component */
+/* Start of Holder 8 Component */
 export default class Holder8 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -130,8 +130,8 @@ export default class Holder8 extends Component {
         )
     }
 }
-/* End of Holder 8 */
-/* Start of Holder 9 */
+/* End of Holder 8 Component */
+/* Start of Holder 9 Component */
 export default class Holder9 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -153,8 +153,8 @@ export default class Holder9 extends Component {
         )
     }
 }
-/* End of Holder 9 */
-/* Start of Holder 10 */
+/* End of Holder 9 Component */
+/* Start of Holder 10 Component */
 export default class Holder10 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -170,8 +170,8 @@ export default class Holder10 extends Component {
         )
     }
 }
-/* End of Holder 10 */
-/* Start of Holder 11 */
+/* End of Holder 10 Component */
+/* Start of Holder 11 Component */
 export default class Holder11 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -187,8 +187,8 @@ export default class Holder11 extends Component {
         )
     }
 }
-/* End of Holder 11 */
-/* Start of Holder 12 */
+/* End of Holder 11 Component */
+/* Start of Holder 12 Component */
 export default class Holder12 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -205,8 +205,8 @@ export default class Holder12 extends Component {
         )
     }
 }
-/* End of Holder 12 */
-/* Start of Holder 13 */
+/* End of Holder 12 Component */
+/* Start of Holder 13 Component */
 export default class Holder13 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -223,8 +223,8 @@ export default class Holder13 extends Component {
         )
     }
 }
-/* End of Holder 13 */
-/* Start of Holder 14 */
+/* End of Holder 13 Component */
+/* Start of Holder 14 Component */
 export default class Holder14 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -241,8 +241,8 @@ export default class Holder14 extends Component {
         )
     }
 }
-/* End of Holder 14 */
-/* Start of Holder 15 */
+/* End of Holder 14 Component */
+/* Start of Holder 15 Component */
 export default class Holder15 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -259,8 +259,8 @@ export default class Holder15 extends Component {
         )
     }
 }
-/* End of Holder 15 */
-/* Start of Holder 16 */
+/* End of Holder 15 Component */
+/* Start of Holder 16 Component */
 export default class Holder16 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -278,8 +278,8 @@ export default class Holder16 extends Component {
         )
     }
 }
-/* End of Holder 16 */
-/* Start of Holder 17 */
+/* End of Holder 16 Component */
+/* Start of Holder 17 Component */
 export default class Holder17 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -297,8 +297,8 @@ export default class Holder17 extends Component {
         )
     }
 }
-/* End of Holder 17 */
-/* Start of Holder 18 */
+/* End of Holder 17 Component */
+/* Start of Holder 18 Component */
 export default class Holder18 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -316,8 +316,8 @@ export default class Holder18 extends Component {
         )
     }
 }
-/* End of Holder 18 */
-/* Start of Holder 19 */
+/* End of Holder 18 Component */
+/* Start of Holder 19 Component */
 export default class Holder19 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -336,8 +336,8 @@ export default class Holder19 extends Component {
         )
     }
 }
-/* End of Holder 19 */
-/* Start of Holder 20 */
+/* End of Holder 19 Component */
+/* Start of Holder 20 Component */
 export default class Holder20 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -357,8 +357,8 @@ export default class Holder20 extends Component {
         )
     }
 }
-/* End of Holder 20 */
-/* Start of Holder 21 */
+/* End of Holder 20 Component */
+/* Start of Holder 21 Component */
 export default class Holder21 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -378,8 +378,8 @@ export default class Holder21 extends Component {
         )
     }
 }
-/* End of Holder 21 */
-/* Start of Holder 22 */
+/* End of Holder 21 Component */
+/* Start of Holder 22 Component */
 export default class Holder22 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -399,8 +399,8 @@ export default class Holder22 extends Component {
         )
     }
 }
-/* End of Holder 22 */
-/* Start of Holder 23 */
+/* End of Holder 22 Component */
+/* Start of Holder 23 Component */
 export default class Holder23 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -422,8 +422,8 @@ export default class Holder23 extends Component {
         )
     }
 }
-/* End of Holder 23 */
-/* Start of Holder 24 */
+/* End of Holder 23 Component */
+/* Start of Holder 24 Component */
 export default class Holder24 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -445,96 +445,204 @@ export default class Holder24 extends Component {
         )
     }
 }
-/* End of Holder 24 */
-/* Start of Holder 25 */
+/* End of Holder 24 Component */
+/* Start of Holder 25 Component */
 export default class Holder25 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="holder25">
+                <section className="holder25-left">
+                    <div className="holder25-block1">{childs[0] || <div />}</div>
+                </section>
+                <section className="holder25-right">
+                    <section className="holder25-right-top">
+                        <div className="holder25-block2">{childs[1] || <div />}</div>
+                        <div className="holder25-block3">{childs[2] || <div />}</div>
+                        <div className="holder25-block4">{childs[3] || <div />}</div>
+                    </section>
+                    <section className="holder25-right-bottom">
+                        <div className="holder25-block5">{childs[4] || <div />}</div>
+                        <div className="holder25-block6">{childs[5] || <div />}</div>
+                    </section>
+                </section>
             </section>
         )
     }
 }
-/* End of Holder 25 */
-/* Start of Holder 26 */
+/* End of Holder 25 Component */
+/* Start of Holder 26 Component */
 export default class Holder26 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="holder26">
+                <section className="holder26-left">
+                    <div className="holder26-block1">{childs[0] || <div />}</div>
+                </section>
+                <section className="holder26-right">
+                    <section className="holder26-right-top">
+                        <div className="holder26-block2">{childs[1] || <div />}</div>
+                        <div className="holder26-block3">{childs[2] || <div />}</div>
+                        <div className="holder26-block4">{childs[3] || <div />}</div>
+                    </section>
+                    <section className="holder26-right-bottom">
+                        <div className="holder26-block5">{childs[4] || <div />}</div>
+                    </section>
+                </section>
             </section>
         )
     }
 }
-/* End of Holder 26 */
-/* Start of Holder 27 */
+/* End of Holder 26 Component */
+/* Start of Holder 27 Component */
 export default class Holder27 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="holder27">
+                <section className="holder27-left">
+                    <div className="holder27-block1">{childs[0] || <div />}</div>
+                </section>
+                <section className="holder27-right">
+                    <section className="holder27-right-top">
+                        <div className="holder27-block2">{childs[1] || <div />}</div>
+                    </section>
+                    <section className="holder27-right-bottom">
+                        <div className="holder27-block3">{childs[2] || <div />}</div>
+                        <div className="holder27-block4">{childs[3] || <div />}</div>
+                        <div className="holder27-block5">{childs[4] || <div />}</div>
+                    </section>
+                </section>
             </section>
         )
     }
 }
-/* End of Holder 27 */
-/* Start of Holder 28 */
+/* End of Holder 27 Component */
+/* Start of Holder 28 Component */
 export default class Holder28 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="holder28">
+                <section className="holder28-left">
+                    <div className="holder28-block1">{childs[0] || <div />}</div>
+                </section>
+                <section className="holder28-right">
+                    <section className="holder28-right-top">
+                        <div className="holder28-block2">{childs[1] || <div />}</div>
+                        <div className="holder28-block3">{childs[2] || <div />}</div>
+                    </section>
+                    <section className="holder28-right-bottom">
+                        <div className="holder28-block4">{childs[3] || <div />}</div>
+                        <div className="holder28-block5">{childs[4] || <div />}</div>
+                        <div className="holder28-block6">{childs[5] || <div />}</div>
+                    </section>
+                </section>
             </section>
         )
     }
 }
-/* End of Holder 28 */
-/* Start of Holder 29 */
+/* End of Holder 28 Component */
+/* Start of Holder 29 Component */
 export default class Holder29 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="holder29">
+                <section className="holder29-left">
+                    <section className="holder29-left-top">
+                        <div className="holder29-block1">{childs[0] || <div />}</div>
+                        <div className="holder29-block2">{childs[1] || <div />}</div>
+                        <div className="holder29-block3">{childs[2] || <div />}</div>
+                    </section>
+                    <section className="holder29-left-bottom">
+                        <div className="holder29-block4">{childs[3] || <div />}</div>
+                        <div className="holder29-block5">{childs[4] || <div />}</div>
+                    </section>
+                </section>
+                <section className="holder29-right">
+                    <div className="holder29-block6">{childs[5] || <div />}</div>
+                </section>
             </section>
         )
     }
 }
-/* End of Holder 29 */
-/* Start of Holder 30 */
+/* End of Holder 29 Component */
+/* Start of Holder 30 Component */
 export default class Holder30 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="holder30">
+                <section className="holder30-left">
+                    <section className="holder30-left-top">
+                        <div className="holder30-block1">{childs[0] || <div />}</div>
+                        <div className="holder30-block2">{childs[1] || <div />}</div>
+                        <div className="holder30-block3">{childs[2] || <div />}</div>
+                    </section>
+                    <section className="holder30-left-bottom">
+                        <div className="holder30-block4">{childs[3] || <div />}</div>
+                    </section>
+                </section>
+                <section className="holder30-right">
+                    <div className="holder30-block5">{childs[4] || <div />}</div>
+                </section>
             </section>
         )
     }
 }
-/* End of Holder 30 */
-/* Start of Holder 31 */
+/* End of Holder 30 Component */
+/* Start of Holder 31 Component */
 export default class Holder31 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="holder31">
+                <section className="holder31-left">
+                    <section className="holder31-left-top">
+                        <div className="holder31-block1">{childs[0] || <div />}</div>
+                    </section>
+                    <section className="holder31-left-bottom">
+                        <div className="holder31-block2">{childs[1] || <div />}</div>
+                        <div className="holder31-block3">{childs[2] || <div />}</div>
+                        <div className="holder31-block4">{childs[3] || <div />}</div>
+                    </section>
+                </section>
+                <section className="holder31-right">
+                    <div className="holder31-block5">{childs[4] || <div />}</div>
+                </section>
             </section>
         )
     }
 }
-/* End of Holder 31 */
-/* Start of Holder 32 */
+/* End of Holder 31 Component */
+/* Start of Holder 32 Component */
 export default class Holder32 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
         return (
             <section className="holder32">
+                <section className="holder32-left">
+                    <section className="holder32-left-top">
+                        <div className="holder32-block1">{childs[0] || <div />}</div>
+                        <div className="holder32-block2">{childs[1] || <div />}</div>
+                    </section>
+                    <section className="holder32-left-bottom">
+                        <div className="holder32-block3">{childs[2] || <div />}</div>
+                        <div className="holder32-block4">{childs[3] || <div />}</div>
+                        <div className="holder32-block5">{childs[4] || <div />}</div>
+                    </section>
+                </section>
+                <section className="holder32-right">
+                    <div className="holder32-block6">{childs[5] || <div />}</div>
+                </section>
             </section>
         )
     }
 }
-/* End of Holder 32 */
-/* Start of Holder 33 */
+/* End of Holder 32 Component */
+/* Start of Holder 33 Component */
 export default class Holder33 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -544,8 +652,8 @@ export default class Holder33 extends Component {
         )
     }
 }
-/* End of Holder 33 */
-/* Start of Holder 34 */
+/* End of Holder 33 Component */
+/* Start of Holder 34 Component */
 export default class Holder34 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -555,8 +663,8 @@ export default class Holder34 extends Component {
         )
     }
 }
-/* End of Holder 34 */
-/* Start of Holder 35 */
+/* End of Holder 34 Component */
+/* Start of Holder 35 Component */
 export default class Holder35 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -566,8 +674,8 @@ export default class Holder35 extends Component {
         )
     }
 }
-/* End of Holder 35 */
-/* Start of Holder 36 */
+/* End of Holder 35 Component */
+/* Start of Holder 36 Component */
 export default class Holder36 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -577,8 +685,8 @@ export default class Holder36 extends Component {
         )
     }
 }
-/* End of Holder 36 */
-/* Start of Holder 37 */
+/* End of Holder 36 Component */
+/* Start of Holder 37 Component */
 export default class Holder37 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -588,8 +696,8 @@ export default class Holder37 extends Component {
         )
     }
 }
-/* End of Holder 37 */
-/* Start of Holder 38 */
+/* End of Holder 37 Component */
+/* Start of Holder 38 Component */
 export default class Holder38 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -599,8 +707,8 @@ export default class Holder38 extends Component {
         )
     }
 }
-/* End of Holder 38 */
-/* Start of Holder 39 */
+/* End of Holder 38 Component */
+/* Start of Holder 39 Component */
 export default class Holder39 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -610,8 +718,8 @@ export default class Holder39 extends Component {
         )
     }
 }
-/* End of Holder 39 */
-/* Start of Holder 40 */
+/* End of Holder 39 Component */
+/* Start of Holder 40 Component */
 export default class Holder40 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -621,8 +729,8 @@ export default class Holder40 extends Component {
         )
     }
 }
-/* End of Holder 40 */
-/* Start of Holder 41 */
+/* End of Holder 40 Component */
+/* Start of Holder 41 Component */
 export default class Holder41 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -632,8 +740,8 @@ export default class Holder41 extends Component {
         )
     }
 }
-/* End of Holder 41 */
-/* Start of Holder 42 */
+/* End of Holder 41 Component */
+/* Start of Holder 42 Component */
 export default class Holder42 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -643,8 +751,8 @@ export default class Holder42 extends Component {
         )
     }
 }
-/* End of Holder 42 */
-/* Start of Holder 43 */
+/* End of Holder 42 Component */
+/* Start of Holder 43 Component */
 export default class Holder43 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -654,8 +762,8 @@ export default class Holder43 extends Component {
         )
     }
 }
-/* End of Holder 43 */
-/* Start of Holder 44 */
+/* End of Holder 43 Component */
+/* Start of Holder 44 Component */
 export default class Holder44 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -665,8 +773,8 @@ export default class Holder44 extends Component {
         )
     }
 }
-/* End of Holder 44 */
-/* Start of Holder 45 */
+/* End of Holder 44 Component */
+/* Start of Holder 45 Component */
 export default class Holder45 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -676,8 +784,8 @@ export default class Holder45 extends Component {
         )
     }
 }
-/* End of Holder 45 */
-/* Start of Holder 46 */
+/* End of Holder 45 Component */
+/* Start of Holder 46 Component */
 export default class Holder46 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -687,8 +795,8 @@ export default class Holder46 extends Component {
         )
     }
 }
-/* End of Holder 46 */
-/* Start of Holder 47 */
+/* End of Holder 46 Component */
+/* Start of Holder 47 Component */
 export default class Holder47 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -698,8 +806,8 @@ export default class Holder47 extends Component {
         )
     }
 }
-/* End of Holder 47 */
-/* Start of Holder 48 */
+/* End of Holder 47 Component */
+/* Start of Holder 48 Component */
 export default class Holder48 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -709,8 +817,8 @@ export default class Holder48 extends Component {
         )
     }
 }
-/* End of Holder 48 */
-/* Start of Holder 49 */
+/* End of Holder 48 Component */
+/* Start of Holder 49 Component */
 export default class Holder49 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -720,8 +828,8 @@ export default class Holder49 extends Component {
         )
     }
 }
-/* End of Holder 49 */
-/* Start of Holder 50 */
+/* End of Holder 49 Component */
+/* Start of Holder 50 Component */
 export default class Holder50 extends Component {
     render() {
         const childs = React.Children.toArray(this.props.children);
@@ -731,4 +839,4 @@ export default class Holder50 extends Component {
         )
     }
 }
-/* End of Holder 50 */
+/* End of Holder 50 Component */

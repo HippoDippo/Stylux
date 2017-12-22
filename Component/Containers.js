@@ -71,6 +71,7 @@ export class Container4 extends Component {
 /* Start of Container 5 Component */
 export class Container5 extends Component {
     render() {
+        const childs = React.Children.toArray(this.props.children);
         return (
             <section className="container5">
             </section>
@@ -78,10 +79,12 @@ export class Container5 extends Component {
     }
 }
 
-/*Container 6 Component*/
+/* End of Container 5 Component */
+/* Start of Container 6 Component */
 export class Container6 extends Component {
 
     render() {
+        const childs = React.Children.toArray(this.props.children);
         return (
             <section className="container6">
             </section>
@@ -89,9 +92,11 @@ export class Container6 extends Component {
     }
 }
 
-/*Container 7 Component*/
+/* End of Container 6 Component */
+/* Start of Container 7 Component */
 export class Container7 extends Component {
     render() {
+        const childs = React.Children.toArray(this.props.children);
         return (
             <section className="container7">
             </section>
@@ -99,9 +104,11 @@ export class Container7 extends Component {
     }
 }
 
-/*Container 8 Component*/
+/* End of Container 7 Component */
+/* Start of Container 8 Component */
 export class Container8 extends Component {
     render() {
+        const childs = React.Children.toArray(this.props.children);
         return (
             <section className="container8">
             </section>
@@ -109,9 +116,11 @@ export class Container8 extends Component {
     }
 }
 
-/*Container 9 Component*/
+/* End of Container 8 Component */
+/* Start of Container 9 Component */
 export class Container9 extends Component {
     render() {
+        const childs = React.Children.toArray(this.props.children);
         return (
             <section className="container9">
             </section>
@@ -119,9 +128,11 @@ export class Container9 extends Component {
     }
 }
 
-/*Container 10 Component*/
+/* End of Container 9 Component */
+/* Start of Container 10 Component */
 export class Container10 extends Component {
     render() {
+        const childs = React.Children.toArray(this.props.children);
         return (
             <section className="container10">
             </section>
@@ -129,9 +140,11 @@ export class Container10 extends Component {
     }
 }
 
-/*Container 11 Component*/
+/* End of Container 10 Component */
+/* Start of Container 11 Component */
 export class Container11 extends Component {
     render() {
+        const childs = React.Children.toArray(this.props.children);
         return (
             <section className="container11">
             </section>
@@ -139,9 +152,11 @@ export class Container11 extends Component {
     }
 }
 
-/*Container 12 Component*/
+/* End of Container 11 Component */
+/* Start of Container 12 Component */
 export class Container12 extends Component {
     render() {
+        const childs = React.Children.toArray(this.props.children);
         return (
             <section className="container12">
             </section>
@@ -149,9 +164,11 @@ export class Container12 extends Component {
     }
 }
 
-/*Container 13 Component*/
+/* End of Container 12 Component */
+/* Sytart of Container 13 Component */
 export class Container13 extends Component {
     render() {
+        const childs = React.Children.toArray(this.props.children);
         return (
             <section className="container13">
             </section>
@@ -159,9 +176,11 @@ export class Container13 extends Component {
     }
 }
 
-/*Container 14 Component*/
+/* End of Container 13 Component */
+/* Start of Container 14 Component */
 export class Container14 extends Component {
     render() {
+        const childs = React.Children.toArray(this.props.children);
         return (
             <section className="container14">
             </section>
@@ -169,9 +188,11 @@ export class Container14 extends Component {
     }
 }
 
-/*Container 15 Component*/
+/* End of Container 14 Component */
+/* Start of Container 15 Component */
 export class Container15 extends Compoonent {
     render() {
+        const childs = React.Children.toArray(this.props.children);
         return (
             <section className="container15">
             </section>
@@ -179,9 +200,11 @@ export class Container15 extends Compoonent {
     }
 }
 
-/*Container 16 Component*/
+/* End of Container 15 Component */
+/* Start of Container 16 Component */
 export class Container16 extends Component {
     render() {
+        const childs = React.Children.toArray(this.props.children);
         return (
             <section className="container16">
             </section>
@@ -189,9 +212,11 @@ export class Container16 extends Component {
     }
 }
 
-/*Container 17 Component*/
+/* End of Container 16 Component */
+/* Start of Container 17 Component */
 export class Container17 extends Component {
     render() {
+        const childs = React.Children.toArray(this.props.children);
         return (
             <section className="container17">
             </section>
@@ -199,9 +224,11 @@ export class Container17 extends Component {
     }
 }
 
-/*Container 18 Component*/
+/* End of Container 17 Component */
+/* Start of Container 18 Component */
 export class Container18 extends Component {
     render() {
+        const childs = React.Children.toArray(this.props.children);
         return (
             <section className="container18">
             </section>
@@ -209,9 +236,11 @@ export class Container18 extends Component {
     }
 }
 
-/*Container 19 Component*/
+/* End of Container 18 Component */
+/* Start of Container 19 Component */
 export class Container19 extends Component {
     render() {
+        const childs = React.Children.toArray(this.props.children);
         return (
             <section className="container19">
             </section>
@@ -219,12 +248,16 @@ export class Container19 extends Component {
     }
 }
 
-/*Container 20 Component*/
+/* End of Container 19 Component */
+/* Start of Container 20 Component */
 export class Container20 extends Component {
     render() {
+        const childs = React.Children.toArray(this.props.children);
         return (
             <section className="container20">
             </section>
         )
     }
 }
+
+/* End of Container 20 Component */
